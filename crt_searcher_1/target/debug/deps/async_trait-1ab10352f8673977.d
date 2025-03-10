@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\Rust-Black-Hat\crt_searcher_1\target\debug\deps\async_trait-1ab10352f8673977.dll: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\args.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\bound.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\expand.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\lifetime.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\parse.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\receiver.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\verbatim.rs
+
+C:\Users\HP\Documents\Rust-Black-Hat\crt_searcher_1\target\debug\deps\async_trait-1ab10352f8673977.d: C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\args.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\bound.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\expand.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\lifetime.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\parse.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\receiver.rs C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\verbatim.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\args.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\bound.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\expand.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\lifetime.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\parse.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\receiver.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-6f17d22bba15001f\async-trait-0.1.87\src\verbatim.rs:
